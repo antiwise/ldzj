@@ -1,0 +1,32 @@
+INT	INT	STRING
+索引	消耗	描述
+1	300	Crystal battle to obtain the number of additional 20%
+2	500	Crystal battle to obtain the number of additional 40%
+3	1200	Crystal battle to obtain the number of additional 60%
+4	2400	Crystal battle to obtain the number of additional 80%
+5	3600	Crystal battle to obtain the number of additional 100%
+6	2000	Increase 2 wingman
+7	3000	Wingman attack power increased by 50%
+8	4000	Increase 4 wingman
+9	8000	Wingman attack power increased by 100%
+10	12000	Increase 6 wingman
+11	2000	Initial Weapon Level +1
+12	3000	The initial fire attack +50%
+13	4500	Initial Weapon Level +2
+14	8000	The initial fire attack +100%
+15	15000	Initial Weapon Level +3
+16	2000	Runaway attack duration +1second
+17	3000	Runaway attack duration +1second
+18	5000	Runaway attack duration +1second
+19	10000	Runaway attack duration +1second
+20	20000	Runaway attack duration +1second
+21	3000	Energy shield cap +1
+22	5000	Energy shield cap +1
+23	10000	Energy shield cap +1
+24	20000	Energy shield cap +1
+25	30000	Energy shield cap +1
+26	5000	Bisha attack duration +1
+27	10000	Bisha attack duration +1
+28	20000	Bisha attack duration +1
+29	30000	Bisha attack duration +1
+30	50000	Bisha attack duration +1

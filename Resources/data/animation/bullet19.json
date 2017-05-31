@@ -1,0 +1,64 @@
+[
+   {
+      "frames" : [
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 196,
+                  "isVisible" : true,
+                  "name" : "e_0",
+                  "originX" : 35,
+                  "originY" : 98,
+                  "res_dir" : "bullet19",
+                  "res_name" : "000",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 71,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 196,
+                  "isVisible" : true,
+                  "name" : "e_1",
+                  "originX" : 35,
+                  "originY" : 98,
+                  "res_dir" : "bullet19",
+                  "res_name" : "001",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 71,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         }
+      ],
+      "h" : 196,
+      "name" : "g_0",
+      "originX" : 39,
+      "originY" : 98,
+      "w" : 71
+   }
+]
+

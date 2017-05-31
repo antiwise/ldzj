@@ -1,0 +1,12 @@
+[·É»ú15]
+pos = 50
+x = 300
+y = -170
+model = 187
+num = 1
+waitPrev = true
+delay = 5.0
+action = 06hard
+- end -
+
+

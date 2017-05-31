@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>wing1_000.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{37,58}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{37,58}}</string>
+                <key>sourceSize</key>
+                <string>{37,58}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>wing1.png</string>
+            <key>size</key>
+            <string>{41,62}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:337c73dd718d5a9461c8393efe25b20a:1496b83bf874d4cd925626272d621ed9:cc67f1720a5ff5a5d62fbf66b15d6505$</string>
+            <key>textureFileName</key>
+            <string>wing1.png</string>
+        </dict>
+    </dict>
+</plist>

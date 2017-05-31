@@ -1,0 +1,70 @@
+INT	INT	STRING	STRING
+参数ID	值	字符值	说明
+1	0		Initialization score
+2	214		Debugging x
+3	125		Debugging y
+4	0	Storm Ares	Aircraft 1 Name
+5	0	Fast flash Leiguang	Aircraft 2 Name
+6	0	Scarlet lightning	Aircraft 3 Name
+7	0	Ghost Wrath	Aircraft 4 Name
+8	0	none	Aircraft 1 Skills
+9	0	track	Aircraft 2 Skills
+10	0	Strong fire	Aircraft 3 Skills
+11	0	penetrate	Aircraft 4 Skills
+12	0	Union against the reaper and the development of the early fighters, growth is extremely high, the standard fighter Union.	Aircraft 1 Introduction
+13	0	Equipped with a self-locking arms, from any location to launch the most powerful offensive, used by the military exploits of excellence by the league.	Aircraft 2 Introduction
+14	0	Strong cation laser beam can penetrate everything, everything firepower can punch through armor, the league's top pilots only those who can be tamed.	Aircraft 3 Introduction
+15	0	Ultimate Mech Union, fold jump from the enemy causing great harm, Quark fission weapon can penetrate enemy armor	Aircraft 4 Introduction
+16	0	Reward Gem	
+17	0	Reward Shield	
+18	0	Reward kill	
+19	0	Federal Human welcome you to join, for our homeland, fight!	
+20	0	Our homes, fight!	
+21	0	Explanation	
+22	0	微软雅黑	
+23	2000	0	First off bonus
+24	2000	0	The second hurdle Bonus
+25	3000	0	Third off bonus
+26	3000	0	Fourth off bonus
+27	4000	0	Fifth off bonus
+28	5000	0	Sixth off bonus
+29	5000	0	Seventh off bonus
+30	6000	0	Eighth off bonus
+31	7000	0	Ninth off bonus
+32	8000	0	Seventh off bonus
+33	9000	0	Eleventh off bonus
+34	10000	0	Twelfth off bonus
+35	12	0	Total Level
+36	0	This is a federal-style fighter, superior performance, I hope you can drive it to defeat the enemy.	对话1
+37	0	Recruits, Tasang Nice defense stake, for our compatriots, attack!	对话2
+38	0	Central is the core of fighters, attack aircraft will be destroyed.	对话3
+39	0	Shield will use the enemy's bullets into resources	对话4
+40	0	Call bomb blew armor formations cooperative combat it.	对话5
+41	0	Al defenders are seeking support, we go!	对话6
+42	0	Enhancements turned fighter, we go and see!	对话7
+43	0	Strengthening fighters has been completed, go to support Al defense	对话8
+44	0	Recruits, tarsonis defense to attack people, on the verge of death or destruction! 	关卡1开始剧情
+45	0	This is Eyre. He used to be a beautiful planet... 	关卡2开始剧情
+46	0	Hoffman star is a famous industrial star, and now this scene, the Damned 	关卡3开始剧情
+47	0	The battle now different from the past, you can easily do in the face of the elite 	关卡4开始剧情
+48	0	I feel like I'm in touch with their core forces, you have to be careful.	关卡5开始剧情
+49	0	In front of the giant mecha is their commander, to end the war.	关卡6开始剧情
+50	0	It seems that this is really the catastrophe, we need to get more information from the wreckage.	关卡7开始剧情
+51	0	The reorganization of the more powerful mecha, you have to be careful ah!	关卡8开始剧情
+52	0	So many battles down, I feel like you're a little too much!	关卡9开始剧情
+53	0	Already here, En Taro Adun!	关卡10开始剧情
+54	0	Let's end it all! 	关卡11开始剧情
+55	0	This last battle, regardless of victory or defeat we will never die!	关卡12开始剧情
+56	0	Eyre's defenders are seeking support, we go!	结束剧情-关卡1
+57	0	In the view of AI Erxing battle let you grow a lot	结束剧情-关卡2
+58	0	This is really a tough fight, you are the hope of mankind	结束剧情-关卡3
+59	0	Fighting and growing, your performance is so dazzling 	结束剧情-关卡4
+60	0	There is a kind of ominous feeling in my heart!	结束剧情-关卡5
+61	0	What? They're actually restructuring?	结束剧情-关卡6
+62	0	Keep on fighting! Crack the experts are working hard!	结束剧情-关卡7
+63	0	Crack progress is good, continue to work on it!	结束剧情-关卡8
+64	0	Really tough fight, need to replace the powerful fighter?	结束剧情-关卡9
+65	0	We have cracked the "harvest" rebirth of the ability!	结束剧情-关卡10
+66	0	Just a war let people never forget, you do.	结束剧情-关卡11
+67	0	People will tell you the story of your generation, Tassader!	结束剧情-关卡12
+68	0	Score:	Ranking rose used in

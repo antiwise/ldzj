@@ -1,0 +1,117 @@
+[
+   {
+      "frames" : [
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 34,
+                  "isVisible" : true,
+                  "name" : "e_0",
+                  "originX" : 14,
+                  "originY" : 17,
+                  "res_dir" : "sucai",
+                  "res_name" : "shuijing4-1",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 28,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 34,
+                  "isVisible" : true,
+                  "name" : "e_1",
+                  "originX" : 14,
+                  "originY" : 17,
+                  "res_dir" : "sucai",
+                  "res_name" : "shuijing4-2",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 28,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 34,
+                  "isVisible" : true,
+                  "name" : "e_2",
+                  "originX" : 14,
+                  "originY" : 17,
+                  "res_dir" : "sucai",
+                  "res_name" : "shuijing4-3",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 28,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 34,
+                  "isVisible" : true,
+                  "name" : "e_3",
+                  "originX" : 14,
+                  "originY" : 17,
+                  "res_dir" : "sucai",
+                  "res_name" : "shuijing4-4",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 28,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         }
+      ],
+      "h" : 34,
+      "name" : "g_0",
+      "originX" : 14,
+      "originY" : 17,
+      "script" : [],
+      "w" : 28
+   }
+]
+

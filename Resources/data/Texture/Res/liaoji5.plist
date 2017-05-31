@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>liaoji5_0.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{63,79}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{63,79}}</string>
+                <key>sourceSize</key>
+                <string>{63,79}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>liaoji5.png</string>
+            <key>size</key>
+            <string>{67,83}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:c5cbbc35d0c45aeaf4be1055c6492210:63a79dc74cd5afe9bbc3d1577530bcb4:cef22ee19165310a4f90eaa8efd67a40$</string>
+            <key>textureFileName</key>
+            <string>liaoji5.png</string>
+        </dict>
+    </dict>
+</plist>

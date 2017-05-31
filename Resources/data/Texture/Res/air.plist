@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>air_1-1 .png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{48,93}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{48,93}}</string>
+                <key>sourceSize</key>
+                <string>{48,93}</string>
+            </dict>
+            <key>air_1-4.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{52,2},{85,116}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{85,116}}</string>
+                <key>sourceSize</key>
+                <string>{85,116}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>air.png</string>
+            <key>size</key>
+            <string>{139,120}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:e8cb5e77b32a09e884e8ee2bff4702eb:3caa0fa278ab9413c92dc0378ab05572:9523c03785d0c72685580b22f6c45190$</string>
+            <key>textureFileName</key>
+            <string>air.png</string>
+        </dict>
+    </dict>
+</plist>

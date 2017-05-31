@@ -1,0 +1,14 @@
+INT	STRING	STRING	STRING	INT	INT	STRING	STRING	STRING	STRING	STRING	STRING	INT	INT	INT
+关卡	星球图片	星球名(未解锁)	星球名(已解锁)	星球坐标X	星球坐标Y	boss动画文件	X偏移	Y偏移	缩放	boss名称	介绍	血	攻	速
+1	select_rank_s1.png	select_rank_003.png	select_rank_004.png	108	180	boss_2	40.0	0.0	0.55	select_rank_n1.png	select_rank_1.png	2	3	2
+2	select_rank_s2.png	select_rank_003.png	select_rank_005.png	248	299	BOSS17_2	35.0	-10.0	0.65	select_rank_n2.png	select_rank_2.png	4	3	4
+3	select_rank_s3.png	select_rank_003.png	select_rank_006.png	396	151	BOSS10_2	25.0	0.0	0.7	select_rank_n3.png	select_rank_3.png	5	5	4
+4	select_rank_s4.png	select_rank_003.png	select_rank_007.png	83	267	BOSS9_2	40.0	-55.0	0.45	select_rank_n4.png	select_rank_4.png	5	4	5
+5	select_rank_s5.png	select_rank_003.png	select_rank_008.png	214	155	BOSS8_2	40.0	-10.0	0.55	select_rank_n5.png	select_rank_5.png	5	4	4
+6	select_rank_s6.png	select_rank_003.png	select_rank_009.png	375	299	BOSS18_2	85.0	-5.0	0.55	select_rank_n6.png	select_rank_6.png	5	4	3	3
+7	select_rank_s7.png	select_rank_003.png	select_rank_010.png	108	180	boss25_2	40.0	0.0	0.55	select_rank_n7.png	select_rank_7.png	4	3	4
+8	select_rank_s8.png	select_rank_003.png	select_rank_011.png	248	299	BOSS26_2	35.0	-10.0	0.65	select_rank_n8.png	select_rank_8.png	3	5	4
+9	select_rank_s9.png	select_rank_003.png	select_rank_012.png	396	151	BOSS27_2	25.0	0.0	0.7	select_rank_n9.png	select_rank_9.png	4	5	4
+10	select_rank_s10.png	select_rank_003.png	select_rank_013.png	83	267	BOSS28_2	40.0	-55.0	0.45	select_rank_n10.png	select_rank_10.png	5	4	5
+11	select_rank_s11.png	select_rank_003.png	select_rank_014.png	214	155	BOSS29_2	40.0	-10.0	0.55	select_rank_n11.png	select_rank_11.png	5	4	4
+12	select_rank_s12.png	select_rank_003.png	select_rank_015.png	375	299	BOSS30_2	85.0	-5.0	0.55	select_rank_n12.png	select_rank_12.png	5	5	3

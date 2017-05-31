@@ -1,0 +1,11 @@
+[·É»ú21]
+pos = 50
+x = 300
+y = -130
+model = 178
+num = 1
+waitPrev = true
+delay = 5.0
+action = 02normal
+- end -
+

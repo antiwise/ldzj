@@ -1,0 +1,220 @@
+[
+   {
+      "frames" : [
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 73,
+                  "isVisible" : true,
+                  "name" : "e_0",
+                  "originX" : 7,
+                  "originY" : 36,
+                  "res_dir" : "sucai",
+                  "res_name" : "099",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 14,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 73,
+                  "isVisible" : true,
+                  "name" : "e_1",
+                  "originX" : 7,
+                  "originY" : 36,
+                  "res_dir" : "sucai",
+                  "res_name" : "100",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 14,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 73,
+                  "isVisible" : true,
+                  "name" : "e_2",
+                  "originX" : 7,
+                  "originY" : 36,
+                  "res_dir" : "sucai",
+                  "res_name" : "101",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 14,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 73,
+                  "isVisible" : true,
+                  "name" : "e_3",
+                  "originX" : 7,
+                  "originY" : 36,
+                  "res_dir" : "sucai",
+                  "res_name" : "102",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 14,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 73,
+                  "isVisible" : true,
+                  "name" : "e_4",
+                  "originX" : 7,
+                  "originY" : 36,
+                  "res_dir" : "sucai",
+                  "res_name" : "103",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 14,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 73,
+                  "isVisible" : true,
+                  "name" : "e_5",
+                  "originX" : 7,
+                  "originY" : 36,
+                  "res_dir" : "sucai",
+                  "res_name" : "104",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 14,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 73,
+                  "isVisible" : true,
+                  "name" : "e_6",
+                  "originX" : 7,
+                  "originY" : 36,
+                  "res_dir" : "sucai",
+                  "res_name" : "105",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 14,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 73,
+                  "isVisible" : true,
+                  "name" : "e_7",
+                  "originX" : 7,
+                  "originY" : 36,
+                  "res_dir" : "sucai",
+                  "res_name" : "106",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 14,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         }
+      ],
+      "h" : 73,
+      "name" : "g_0",
+      "originX" : 7,
+      "originY" : 36,
+      "w" : 14
+   }
+]
+

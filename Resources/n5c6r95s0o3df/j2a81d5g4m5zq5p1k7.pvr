@@ -1,0 +1,27 @@
+key,value
+SDK_GAMECONFIG_0,"DATAEYEID=@DataEyeId>
+DATAEYECHANNEL=@Channel>
+COID=@CoId>
+TURNABLEPRICES=g1 | z2 | z1 | d2 | d1
+PRODUCT_GIFT=g1 | 1 | 大番薯
+PRODUCT_ITEMS=g1 | 1 | 大白菜"
+SDK_MAKE_SMS_TEXT_PATTERN,[CMDSTR] [COID];[IMSI]
+GAME_GIFT_FEE_STR,Click the button to cost [_PRICE] [_CURRENCYCODE] to watch three pictures!
+GAME_MONEY_FEE_STR,Click the button to cost [_PRICE] [_CURRENCYCODE] to get view this picture!
+GAME_0,点击金币充值
+GAME_1,点击宝石充值
+GAME_2,点击心充值
+GAME_3,点击礼包
+GAME_4,关闭礼包
+GAME_5,显示礼包
+GAME_6,点击商品
+GAME_7,关闭商品
+GAME_8,显示商品
+GAME_9,点击设置
+GAME_10,点击关于
+GAME_11,点击开始
+GAME_12,进入游戏
+GAME_13,购买礼包成功
+GAME_14,购买礼包失败
+GAME_15,购买商品成功
+GAME_16,购买商品失败

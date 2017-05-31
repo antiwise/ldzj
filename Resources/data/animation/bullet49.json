@@ -1,0 +1,38 @@
+[
+   {
+      "frames" : [
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 146,
+                  "isVisible" : true,
+                  "name" : "e_0",
+                  "originX" : 12,
+                  "originY" : 73,
+                  "res_dir" : "sucai",
+                  "res_name" : "134",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 24,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         }
+      ],
+      "h" : 146,
+      "name" : "g_0",
+      "originX" : 13,
+      "originY" : 73,
+      "w" : 24
+   }
+]
+

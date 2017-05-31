@@ -1,0 +1,1181 @@
+[第一关卡掉宝小飞机]
+pos = 100
+x = 240
+y = -37
+model = 23
+num = 1
+waitPrev = false
+delay = 0.0
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 260
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 0.5
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 220
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 0.5
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 320
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 1
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 160
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 1
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 380
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 1.5
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 100
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 1.5
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 260
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 2.5
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 220
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 2.5
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 320
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 3
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 160
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 3
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 380
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 3.5
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 100
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 3.5
+action = run235
+- end -
+
+[左弧线]
+pos = 160
+x = -33
+y = 83
+model = 5
+num = 3
+waitPrev = true
+delay = 0.0
+action = run5
+offX = 0
+offY = 0
+waitTime = 0.4
+- end -
+
+[左弧线掉宝]
+pos = 170
+x = -33
+y = 83
+model = 25
+num = 1
+waitPrev = false
+delay = 1.2
+action = run5
+- end -
+
+[右弧线]
+pos = 190
+x = 542
+y = 120
+model = 7
+num = 3
+waitPrev = true
+delay = 0.0
+action = run7
+offX = 0
+offY = 0
+waitTime = 0.4
+- end -
+
+[右弧线掉宝]
+pos = 190
+x = 542
+y = 120
+model = 26
+num = 1
+waitPrev = false
+delay = 1.2
+action = run7
+- end -
+
+[田]
+pos = 110
+x = 120
+y = -20
+model = 2
+num = 1
+waitPrev = true
+delay = 0
+action = run235
+- end -
+
+[田]
+pos = 110
+x = 180
+y = -20
+model = 2
+num = 1
+waitPrev = false
+delay = 0
+action = run235
+- end -
+
+[田]
+pos = 110
+x = 120
+y = -20
+model = 2
+num = 1
+waitPrev = false
+delay = 0.5
+action = run235
+- end -
+
+[田]
+pos = 110
+x = 180
+y = -20
+model = 2
+num = 1
+waitPrev = false
+delay = 0.5
+action = run235
+- end -
+
+[L]
+pos = 110
+x = 260
+y = -20
+model = 2
+num = 1
+waitPrev = false
+delay = 1
+action = run235
+- end -
+
+[L]
+pos = 110
+x = 320
+y = -20
+model = 2
+num = 1
+waitPrev = false
+delay = 1
+action = run235
+- end -
+
+[L]
+pos = 110
+x = 260
+y = -20
+model = 2
+num = 1
+waitPrev = false
+delay = 1.5
+action = run235
+- end -
+
+[L]
+pos = 110
+x = 260
+y = -20
+model = 2
+num = 1
+waitPrev = false
+delay = 2
+action = run235
+- end -
+
+[Z]
+pos = 110
+x = 370
+y = -20
+model = 4
+num = 1
+waitPrev = false
+delay = 3
+action = run235
+- end -
+
+[Z]
+pos = 110
+x = 430
+y = -20
+model = 4
+num = 1
+waitPrev = false
+delay = 3
+action = run235
+- end -
+
+[Z]
+pos = 110
+x = 370
+y = -20
+model = 4
+num = 1
+waitPrev = false
+delay = 3.5
+action = run235
+- end -
+
+[Z]
+pos = 110
+x = 310
+y = -20
+model = 4
+num = 1
+waitPrev = false
+delay = 3.5
+action = run235
+- end -
+
+[⊥]
+pos = 110
+x = 150
+y = -20
+model = 5
+num = 1
+waitPrev = false
+delay = 5
+action = run235
+- end -
+
+[⊥]
+pos = 110
+x = 210
+y = -20
+model = 5
+num = 1
+waitPrev = false
+delay = 5
+action = run235
+- end -
+
+[⊥]
+pos = 110
+x = 270
+y = -20
+model = 5
+num = 1
+waitPrev = false
+delay = 5
+action = run235
+- end -
+
+[⊥]
+pos = 110
+x = 210
+y = -20
+model = 5
+num = 1
+waitPrev = false
+delay = 5.5
+action = run235
+- end -
+
+[卧L]
+pos = 110
+x = 320
+y = -20
+model = 7
+num = 1
+waitPrev = false
+delay = 6.5
+action = run235
+- end -
+
+[卧L]
+pos = 110
+x = 320
+y = -20
+model = 7
+num = 1
+waitPrev = false
+delay = 7
+action = run235
+- end -
+
+[卧L]
+pos = 110
+x = 380
+y = -20
+model = 7
+num = 1
+waitPrev = false
+delay = 6.5
+action = run235
+- end -
+
+[卧L]
+pos = 110
+x = 440
+y = -20
+model = 7
+num = 1
+waitPrev = false
+delay = 6.5
+action = run235
+- end -
+
+[左起大]
+pos = 100
+x = 80
+y = -40
+model = 8
+num = 1
+waitPrev = true
+delay = 0.0
+action = run6
+- end -
+
+[右起大]
+pos = 100
+x = 240
+y = -40
+model = 6
+num = 1
+waitPrev = false
+delay = 0.0
+action = run6
+- end -
+
+[右起大]
+pos = 100
+x = 400
+y = -40
+model = 6
+num = 1
+waitPrev = false
+delay = 0.0
+action = run6
+- end -
+
+[第一关卡掉宝小飞机]
+pos = 100
+x = 240
+y = -37
+model = 23
+num = 1
+waitPrev = true
+delay = 0.0
+action = run246
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 260
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 0.5
+action = run246
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 220
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 0.5
+action = run246
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 320
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 1
+action = run246
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 160
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 1
+action = run246
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 380
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 1.5
+action = run246
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 100
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 1.5
+action = run246
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 260
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 2.5
+action = run246
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 220
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 2.5
+action = run246
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 320
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 3
+action = run246
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 160
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 3
+action = run246
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 380
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 3.5
+action = run246
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 100
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 3.5
+action = run246
+- end -
+
+[教学1]
+pos = 210
+x = 100
+y = -30
+model = 9
+num = 2
+waitPrev = true
+delay = 1
+action = run8
+offX = 320
+offY = 0
+waitTime = 0.0
+- end -
+
+[教学2]
+pos = 210
+x = 260
+y = -28
+model = 10
+num = 1
+waitPrev = false
+delay = 1
+action = run9
+- end -
+
+[斜出小飞机右]
+pos = 270
+x = 545
+y = -3
+model = 13
+num = 4
+waitPrev = true
+delay = 0.0
+action = run12
+offX = 80
+offY = 10
+waitTime = 0.5
+- end -
+
+[斜出小飞机右掉宝]
+pos = 280
+x = 875
+y = -5
+model = 28
+num = 1
+waitPrev = false
+delay = 2.0
+action = run12
+- end -
+
+[同时出现弧线小]
+pos = 390
+x = -22
+y = 95
+model = 19
+num = 3
+waitPrev = true
+delay = 0.0
+action = run5
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[同时出现弧线小拷贝]
+pos = 400
+x = -22
+y = 95
+model = 19
+num = 1
+waitPrev = false
+delay = 1.5
+action = run5
+- end -
+
+[同时出现弧线小]
+pos = 410
+x = 547
+y = 558
+model = 19
+num = 4
+waitPrev = false
+delay = 0.0
+action = run16
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[同时出现弧线小拷贝]
+pos = 420
+x = 547
+y = 558
+model = 19
+num = 1
+waitPrev = false
+delay = 1.5
+action = run16
+- end -
+
+[左1]
+pos = 50
+x = -50
+y = -70
+model = 18
+num = 1
+waitPrev = true
+delay = 0.0
+action = run250
+- end -
+
+[左1]
+pos = 50
+x = -50
+y = -10
+model = 18
+num = 1
+waitPrev = false
+delay = 0.0
+action = run250
+- end -
+
+[左1]
+pos = 50
+x = -50
+y = 50
+model = 18
+num = 1
+waitPrev = false
+delay = 0.0
+action = run250
+- end -
+
+[左1]
+pos = 50
+x = -50
+y = 110
+model = 18
+num = 1
+waitPrev = false
+delay = 0.0
+action = run250
+- end -
+
+[左2]
+pos = 50
+x = 30
+y = -70
+model = 18
+num = 1
+waitPrev = false
+delay = 0.0
+action = run250
+- end -
+
+[左2]
+pos = 50
+x = 30
+y = -10
+model = 18
+num = 1
+waitPrev = false
+delay = 0.0
+action = run250
+- end -
+
+[左2]
+pos = 50
+x = 30
+y = 50
+model = 18
+num = 1
+waitPrev = false
+delay = 0.0
+action = run250
+- end -
+
+[左2]
+pos = 50
+x = 30
+y = 110
+model = 18
+num = 1
+waitPrev = false
+delay = 0.0
+action = run250
+- end -
+
+[右1]
+pos = 50
+x = 530
+y = -70
+model = 18
+num = 1
+waitPrev = false
+delay = 0
+action = run251
+- end -
+
+[右1]
+pos = 50
+x = 530
+y = -10
+model = 18
+num = 1
+waitPrev = false
+delay = 0
+action = run251
+- end -
+
+[右1]
+pos = 50
+x = 530
+y = 50
+model = 18
+num = 1
+waitPrev = false
+delay = 0
+action = run251
+- end -
+
+[右1]
+pos = 50
+x = 530
+y = 110
+model = 18
+num = 1
+waitPrev = false
+delay = 0
+action = run251
+- end -
+
+[右2]
+pos = 50
+x = 450
+y = -70
+model = 18
+num = 1
+waitPrev = false
+delay = 0
+action = run251
+- end -
+
+[右2]
+pos = 50
+x = 450
+y = -10
+model = 18
+num = 1
+waitPrev = false
+delay = 0
+action = run251
+- end -
+
+[右2]
+pos = 50
+x = 450
+y = 50
+model = 18
+num = 1
+waitPrev = false
+delay = 0
+action = run251
+- end -
+
+[右2]
+pos = 50
+x = 450
+y = 110
+model = 18
+num = 1
+waitPrev = false
+delay = 0
+action = run251
+- end -
+
+[中1]
+pos = 50
+x = 280
+y = -250
+model = 17
+num = 1
+waitPrev = false
+delay = 0
+action = run252
+- end -
+
+[中1]
+pos = 50
+x = 200
+y = -250
+model = 17
+num = 1
+waitPrev = false
+delay = 0
+action = run252
+- end -
+
+[中2]
+pos = 50
+x = 280
+y = -190
+model = 17
+num = 1
+waitPrev = false
+delay = 0
+action = run252
+- end -
+
+[中2]
+pos = 50
+x = 200
+y = -190
+model = 17
+num = 1
+waitPrev = false
+delay = 0
+action = run252
+- end -
+
+[中3]
+pos = 50
+x = 280
+y = -130
+model = 16
+num = 1
+waitPrev = false
+delay = 0
+action = run252
+- end -
+
+[中3]
+pos = 50
+x = 200
+y = -130
+model = 16
+num = 1
+waitPrev = false
+delay = 0
+action = run252
+- end -
+
+[中4]
+pos = 50
+x = 280
+y = -70
+model = 16
+num = 1
+waitPrev = false
+delay = 0
+action = run252
+- end -
+
+[中4]
+pos = 50
+x = 200
+y = -70
+model = 16
+num = 1
+waitPrev = false
+delay = 0
+action = run252
+- end -
+
+[第一关卡掉宝小飞机]
+pos = 100
+x = 240
+y = -37
+model = 23
+num = 1
+waitPrev = true
+delay = 0.0
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 260
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 0.5
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 220
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 0.5
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 320
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 1
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 160
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 1
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 380
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 1.5
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 100
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 1.5
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 260
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 2.5
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 220
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 2.5
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 320
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 3
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 160
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 3
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 380
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 3.5
+action = run235
+- end -
+
+[第一关卡小飞机]
+pos = 110
+x = 100
+y = -37
+model = 2
+num = 1
+waitPrev = false
+delay = 3.5
+action = run235
+- end -
+
+[同时出现弧线小]
+pos = 390
+x = -22
+y = 95
+model = 19
+num = 3
+waitPrev = true
+delay = 0.0
+action = run5
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[同时出现弧线小拷贝]
+pos = 400
+x = -22
+y = 95
+model = 29
+num = 1
+waitPrev = false
+delay = 1.5
+action = run5
+- end -
+
+[同时出现弧线小]
+pos = 410
+x = 547
+y = 558
+model = 19
+num = 4
+waitPrev = false
+delay = 0.0
+action = run16
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[同时出现弧线小拷贝]
+pos = 420
+x = 547
+y = 558
+model = 29
+num = 1
+waitPrev = false
+delay = 1.5
+action = run16
+- end -
+
+[飞机14]
+pos = 430
+x = 100
+y = -50
+model = 501
+num = 2
+waitPrev = true
+delay = 0.0
+action = run189
+offX = 300
+offY = 0
+waitTime = 0.0
+- end -
+
+[飞机14拷贝]
+pos = 430
+x = 250
+y = -10
+model = 501
+num = 1
+waitPrev = false
+delay = 0.0
+action = run189
+- end -
+
+[飞机15]
+pos = 450
+x = 250
+y = -190
+model = 22
+num = 1
+waitPrev = true
+delay = 5.0
+action = boss1
+- end -

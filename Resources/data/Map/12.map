@@ -1,0 +1,377 @@
+[第一关卡小飞机]
+pos = 216
+x = 150
+y = -37
+model = 222
+num = 3
+waitPrev = false
+delay = 0.0
+action = run158
+offX = 80
+offY = 0
+waitTime = 0.5
+- end -
+
+[第一关卡掉宝小飞机]
+pos = 216
+x = 390
+y = -37
+model = 244
+num = 1
+waitPrev = false
+delay = 1.5
+action = run158
+- end -
+
+[第一关卡小飞机]
+pos = 220
+x = 450
+y = -24
+model = 224
+num = 4
+waitPrev = true
+delay = 0.0
+action = run158
+offX = -80
+offY = 0
+waitTime = 0.5
+- end -
+
+[飞机15]
+pos = 600
+x = 250
+y = -190
+model = 22
+num = 1
+waitPrev = true
+delay = 5.0
+action = boss1
+- end -
+
+[左弧线]
+pos = 240
+x = -33
+y = 83
+model = 5
+num = 3
+waitPrev = true
+delay = 0.0
+action = run5
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[左弧线掉宝]
+pos = 250
+x = -33
+y = 83
+model = 25
+num = 1
+waitPrev = false
+delay = 1.5
+action = run5
+- end -
+
+[右弧线]
+pos = 260
+x = 542
+y = 120
+model = 7
+num = 4
+waitPrev = true
+delay = 0.0
+action = run7
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[飞机1]
+pos = 630
+x = 250
+y = -130
+model = 260
+num = 1
+waitPrev = true
+delay = 5.0
+action = boss14
+- end -
+
+[第一关卡小飞机]
+pos = 280
+x = 150
+y = -37
+model = 222
+num = 3
+waitPrev = true
+delay = 0.0
+action = run158
+offX = 80
+offY = 0
+waitTime = 0.5
+- end -
+
+[第一关卡掉宝小飞机]
+pos = 280
+x = 390
+y = -37
+model = 244
+num = 1
+waitPrev = false
+delay = 1.5
+action = run158
+- end -
+
+[第一关卡小飞机]
+pos = 290
+x = 450
+y = -24
+model = 224
+num = 4
+waitPrev = true
+delay = 0.0
+action = run158
+offX = -80
+offY = 0
+waitTime = 0.5
+- end -
+
+[飞机33]
+pos = 440
+x = 250
+y = -130
+model = 115
+num = 1
+waitPrev = true
+delay = 5.0
+action = boss8
+- end -
+
+[左弧线]
+pos = 310
+x = -33
+y = 83
+model = 5
+num = 3
+waitPrev = true
+delay = 0.0
+action = run5
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[左弧线掉宝]
+pos = 310
+x = -33
+y = 83
+model = 25
+num = 1
+waitPrev = false
+delay = 1.5
+action = run5
+- end -
+
+[右弧线]
+pos = 320
+x = 542
+y = 120
+model = 7
+num = 4
+waitPrev = true
+delay = 0.0
+action = run7
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[飞机15]
+pos = 1380
+x = 200
+y = -130
+model = 118
+num = 1
+waitPrev = true
+delay = 5.0
+action = boss11
+- end -
+
+[第一关卡小飞机]
+pos = 340
+x = 150
+y = -37
+model = 222
+num = 3
+waitPrev = true
+delay = 0.0
+action = run158
+offX = 80
+offY = 0
+waitTime = 0.5
+- end -
+
+[第一关卡掉宝小飞机]
+pos = 340
+x = 390
+y = -37
+model = 244
+num = 1
+waitPrev = false
+delay = 1.5
+action = run158
+- end -
+
+[第一关卡小飞机]
+pos = 350
+x = 450
+y = -24
+model = 224
+num = 4
+waitPrev = true
+delay = 0.0
+action = run158
+offX = -80
+offY = 0
+waitTime = 0.5
+- end -
+
+[左弧线]
+pos = 360
+x = -33
+y = 83
+model = 5
+num = 3
+waitPrev = true
+delay = 0.0
+action = run5
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[左弧线掉宝]
+pos = 360
+x = -33
+y = 83
+model = 25
+num = 1
+waitPrev = false
+delay = 1.5
+action = run5
+- end -
+
+[右弧线]
+pos = 370
+x = 542
+y = 120
+model = 7
+num = 4
+waitPrev = true
+delay = 0.0
+action = run7
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[飞机21]
+pos = 360
+x = 200
+y = -130
+model = 116
+num = 1
+waitPrev = true
+delay = 5.0
+action = boss9
+- end -
+
+[左弧线]
+pos = 390
+x = -33
+y = 83
+model = 5
+num = 3
+waitPrev = true
+delay = 0.0
+action = run5
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[左弧线掉宝]
+pos = 390
+x = -33
+y = 83
+model = 25
+num = 1
+waitPrev = false
+delay = 1.5
+action = run5
+- end -
+
+[右弧线]
+pos = 400
+x = 542
+y = 120
+model = 7
+num = 4
+waitPrev = true
+delay = 0.0
+action = run7
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[第一关卡小飞机]
+pos = 420
+x = 150
+y = -37
+model = 222
+num = 3
+waitPrev = true
+delay = 0.0
+action = run158
+offX = 80
+offY = 0
+waitTime = 0.5
+- end -
+
+[第一关卡掉宝小飞机]
+pos = 420
+x = 390
+y = -37
+model = 244
+num = 1
+waitPrev = false
+delay = 1.5
+action = run158
+- end -
+
+[第一关卡小飞机]
+pos = 430
+x = 450
+y = -24
+model = 224
+num = 4
+waitPrev = true
+delay = 0.0
+action = run158
+offX = -80
+offY = 0
+waitTime = 0.5
+- end -
+
+[boss]
+pos = 10
+x = 300
+y = -190
+model = 509
+num = 1
+waitPrev = true
+delay = 5.0
+action = boss30
+- end -

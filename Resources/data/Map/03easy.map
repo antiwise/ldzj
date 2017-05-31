@@ -1,0 +1,10 @@
+[·É»ú33]
+pos = 250
+x = 250
+y = -130
+model = 115
+num = 1
+waitPrev = true
+delay = 5.0
+action = boss8
+- end -

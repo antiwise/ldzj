@@ -1,0 +1,168 @@
+[
+   {
+      "frames" : [
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 30,
+                  "isVisible" : true,
+                  "name" : "e_0",
+                  "originX" : 15,
+                  "originY" : 15,
+                  "res_dir" : "sucai",
+                  "res_name" : "019",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 30,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 30,
+                  "isVisible" : true,
+                  "name" : "e_1",
+                  "originX" : 15,
+                  "originY" : 15,
+                  "res_dir" : "sucai",
+                  "res_name" : "020",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 30,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 30,
+                  "isVisible" : true,
+                  "name" : "e_2",
+                  "originX" : 15,
+                  "originY" : 15,
+                  "res_dir" : "sucai",
+                  "res_name" : "021",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 30,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 30,
+                  "isVisible" : true,
+                  "name" : "e_3",
+                  "originX" : 15,
+                  "originY" : 15,
+                  "res_dir" : "sucai",
+                  "res_name" : "022",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 30,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 30,
+                  "isVisible" : true,
+                  "name" : "e_4",
+                  "originX" : 15,
+                  "originY" : 15,
+                  "res_dir" : "sucai",
+                  "res_name" : "023",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 30,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 30,
+                  "isVisible" : true,
+                  "name" : "e_5",
+                  "originX" : 15,
+                  "originY" : 15,
+                  "res_dir" : "sucai",
+                  "res_name" : "024",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 30,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         }
+      ],
+      "h" : 30,
+      "name" : "g_0",
+      "originX" : 15,
+      "originY" : 15,
+      "w" : 30
+   }
+]
+

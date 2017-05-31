@@ -1,0 +1,10 @@
+[boss]
+pos = 250
+x = 250
+y = -190
+model = 22
+num = 1
+waitPrev = true
+delay = 5.0
+action = boss1
+- end -

@@ -1,0 +1,27 @@
+offX = 0.0
+offY = 0.0
+partImg = null
+[·¢ÉäÆ÷1]
+- bullet -
+path = 001.png
+bulletType = 1
+model = 7
+bulletOffX = 16.0
+bulletOffY = 16.0
+- base -
+offX = 0.0
+offY = 0.0
+group = -1
+num = -1
+speed = 300.0
+speedDelta = 0.0
+degree = 270.0
+degreeDelta = 0.0
+groupDegreeDelta = 0.0
+waitTime = 3.0
+groupWaitTime = 1.0
+delay = 0.0
+duration = 5.0
+- extra -
+maxDeltaDegree = 50.0
+- end -

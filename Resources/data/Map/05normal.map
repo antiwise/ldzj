@@ -1,0 +1,10 @@
+[·É»ú1]
+pos = 50
+x = 300
+y = -130
+model = 112
+num = 1
+waitPrev = true
+delay = 5.0
+action = boss5
+- end -

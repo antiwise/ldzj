@@ -1,0 +1,400 @@
+[1x1]
+pos = 50
+x = -40
+y = 100
+model = 455
+num = 4
+waitPrev = false
+delay = 0.0
+action = run216
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[1x2]
+pos = 60
+x = 560
+y = 100
+model = 455
+num = 4
+waitPrev = true
+delay = 0.0
+action = run217
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[1x2µï±¤]
+pos = 60
+x = 560
+y = 100
+model = 461
+num = 1
+waitPrev = false
+delay = 2.0
+action = run217
+- end -
+
+[1x2]
+pos = 70
+x = 560
+y = 100
+model = 455
+num = 4
+waitPrev = true
+delay = 0.0
+action = run217
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[1x2µï±¤]
+pos = 70
+x = 560
+y = 100
+model = 461
+num = 1
+waitPrev = false
+delay = 2.0
+action = run217
+- end -
+
+[2x1]
+pos = 80
+x = 200
+y = -40
+model = 456
+num = 1
+waitPrev = true
+delay = 0.0
+action = run218
+- end -
+
+[1x1´©²å]
+pos = 480
+x = -40
+y = 100
+model = 455
+num = 4
+waitPrev = false
+delay = 0.0
+action = run216
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[1x2´©²å]
+pos = 680
+x = 560
+y = 100
+model = 455
+num = 4
+waitPrev = false
+delay = 0.0
+action = run217
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[1x2´©²åµï±¤]
+pos = 880
+x = 560
+y = 100
+model = 461
+num = 1
+waitPrev = false
+delay = 2.0
+action = run217
+- end -
+
+[1x1´©²å]
+pos = 1080
+x = -40
+y = 100
+model = 455
+num = 4
+waitPrev = false
+delay = 0.0
+action = run216
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[1x2´©²å]
+pos = 1280
+x = 560
+y = 100
+model = 455
+num = 4
+waitPrev = false
+delay = 0.0
+action = run217
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[2x2]
+pos = 880
+x = 350
+y = -120
+model = 456
+num = 1
+waitPrev = false
+delay = 0.0
+action = run219
+- end -
+
+[4x1]
+pos = 1290
+x = -60
+y = 150
+model = 458
+num = 1
+waitPrev = true
+delay = 0.0
+action = run221
+- end -
+
+[4x2]
+pos = 1538
+x = 580
+y = 250
+model = 458
+num = 1
+waitPrev = false
+delay = 0.0
+action = run222
+- end -
+
+[1x1]
+pos = 1738
+x = -40
+y = 100
+model = 455
+num = 4
+waitPrev = false
+delay = 0.0
+action = run216
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[1x1µï±¤]
+pos = 1738
+x = -40
+y = 100
+model = 461
+num = 1
+waitPrev = false
+delay = 2.0
+action = run216
+- end -
+
+[1x2]
+pos = 1938
+x = 560
+y = 100
+model = 455
+num = 4
+waitPrev = false
+delay = 0.0
+action = run217
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[3x1]
+pos = 1948
+x = 250
+y = -60
+model = 457
+num = 4
+waitPrev = true
+delay = 0.0
+action = run220
+offX = 60
+offY = -60
+waitTime = 0.0
+- end -
+
+[3x2]
+pos = 2048
+x = 300
+y = -60
+model = 457
+num = 4
+waitPrev = false
+delay = 0.0
+action = run220
+offX = -60
+offY = -60
+waitTime = 0.0
+- end -
+
+[3x1]
+pos = 2148
+x = 250
+y = -60
+model = 457
+num = 4
+waitPrev = false
+delay = 0.0
+action = run220
+offX = 60
+offY = -60
+waitTime = 0.0
+- end -
+
+[3x2]
+pos = 2248
+x = 300
+y = -60
+model = 457
+num = 4
+waitPrev = false
+delay = 0.0
+action = run220
+offX = -60
+offY = -60
+waitTime = 0.0
+- end -
+
+[3x1]
+pos = 2348
+x = 250
+y = -60
+model = 457
+num = 4
+waitPrev = false
+delay = 0.0
+action = run220
+offX = 60
+offY = -60
+waitTime = 0.0
+- end -
+
+[3x2]
+pos = 2448
+x = 300
+y = -60
+model = 457
+num = 4
+waitPrev = false
+delay = 0.0
+action = run220
+offX = -60
+offY = -60
+waitTime = 0.0
+- end -
+
+[5x1]
+pos = 2458
+x = 260
+y = -80
+model = 459
+num = 1
+waitPrev = true
+delay = 0.0
+action = run223
+- end -
+
+[5x2]
+pos = 2638
+x = 160
+y = -150
+model = 460
+num = 2
+waitPrev = false
+delay = 0.0
+action = run224
+offX = 200
+offY = 0
+waitTime = 0.0
+- end -
+
+[1x1]
+pos = 2838
+x = -40
+y = 100
+model = 455
+num = 4
+waitPrev = false
+delay = 0.0
+action = run216
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[1x1µï±¤]
+pos = 2838
+x = -40
+y = 100
+model = 461
+num = 1
+waitPrev = false
+delay = 2.0
+action = run216
+- end -
+
+[1x2]
+pos = 3238
+x = 560
+y = 100
+model = 455
+num = 4
+waitPrev = false
+delay = 0.0
+action = run217
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[1x1]
+pos = 3438
+x = -40
+y = 100
+model = 455
+num = 4
+waitPrev = false
+delay = 0.0
+action = run216
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[1x2]
+pos = 3638
+x = 560
+y = 100
+model = 455
+num = 4
+waitPrev = false
+delay = 0.0
+action = run217
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[BOSS]
+pos = 3658
+x = 260
+y = -170
+model = 440
+num = 1
+waitPrev = true
+delay = 5.0
+action = boss20
+- end -

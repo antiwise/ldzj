@@ -1,0 +1,40 @@
+INT	STRING	STRING	INT	INT
+索引	名称	描述	奖励类型	奖励数量
+1	Fledgling	First off is completed	0	300
+2	Mainstay	Completed the second hurdle	0	500
+3	Ace pilots	Complete the sixth off	0	1000
+4	save the world	Wreck "bursting Machine God"	5	1
+5	First death	First death	3	1
+6	Invincible	First resurrection	5	1
+7	A fury	Open the wrath of the gods	0	2000
+8	Dominate the battlefield	Cumulative 500 enemy	0	500
+9	Dominate the battlefield	Cumulative 1000 enemy	0	1000
+10	Dominate the battlefield	Cumulative 2000 enemy	0	2000
+11	first pot of gold	Gems up to 10000 (including used)	0	1000
+12	a wealthy person	Gems up to 50000 (including used)	0	2000
+13	Life winner	Gem of 100,000 (including used)	0	5000
+14	Federal recruits	Score of 100,000	0	1000
+15	Elite Warrior	Score up to 200,000	0	2000
+16	People admire	Score up to 500,000	0	5000
+17	Machinery rookie	Strengthen the skills for the first time	0	500
+18	Monopoly	"Gem conversion" to strengthen the full level	0	1000
+19	teamwork	"Wingman support" enhanced full level	0	1000
+20	Weapons Charge	"Particles of light gun" to strengthen the full level	0	1000
+21	Increase in armor	"Mech devil" enhanced full level	5	1
+22	Light Aegis	"Quantum Shield" enhanced full level	5	1
+23	Mech frenzy	"Mech Storm" enhanced full level	5	1
+24	Top-level configuration	To strengthen all full level	3	3
+25	Small test their skills	BOSS challenge simply complete 6 Off	3	1
+26	Topped 5000	List the top 5000	0	100
+27	Topped 4000	List the top 4000	0	150
+28	Topped 3000	List the top 3000	0	200
+29	Topped 2000	List the top 2000	0	300
+30	Topped 1000	List the top 1000	0	400
+31	Topped 500	List the top 500	0	500
+32	Topped 300	List the top 300	0	600
+33	Topped 200	List the top 200	0	700
+34	Topped 100	List the top 100	0	1000
+35	Topped 50	List the top 50	0	1500
+36	Topped 30	List the top 30	0	1600
+37	Topped 10	List the top 10	0	1800
+38	Top 3	List the top 3	0	2000

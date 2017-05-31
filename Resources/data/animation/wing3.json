@@ -1,0 +1,105 @@
+[
+   {
+      "frames" : [
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 56,
+                  "isVisible" : true,
+                  "name" : "e_0",
+                  "originX" : 21,
+                  "originY" : 28,
+                  "res_dir" : "liaoji3",
+                  "res_name" : "001",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 42,
+                  "x" : 0,
+                  "y" : 10
+               },
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 47,
+                  "isVisible" : true,
+                  "name" : "e_1",
+                  "originX" : 10,
+                  "originY" : 23,
+                  "res_dir" : "liaoji3",
+                  "res_name" : "002",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 21,
+                  "x" : 11,
+                  "y" : 41
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 56,
+                  "isVisible" : true,
+                  "name" : "e_0",
+                  "originX" : 21,
+                  "originY" : 28,
+                  "res_dir" : "liaoji3",
+                  "res_name" : "001",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 42,
+                  "x" : 0,
+                  "y" : 10
+               },
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 47,
+                  "isVisible" : true,
+                  "name" : "e_1",
+                  "originX" : 10,
+                  "originY" : 23,
+                  "res_dir" : "liaoji3",
+                  "res_name" : "002",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 0.94,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 21,
+                  "x" : 11,
+                  "y" : 41
+               }
+            ],
+            "script" : []
+         }
+      ],
+      "h" : 89,
+      "name" : "g_0",
+      "originX" : 21,
+      "originY" : 39,
+      "script" : [],
+      "w" : 42
+   }
+]
+

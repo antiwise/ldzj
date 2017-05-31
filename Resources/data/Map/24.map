@@ -1,0 +1,899 @@
+[1]
+pos = 50
+x = 260
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x1]
+pos = 60
+x = 100
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x2]
+pos = 70
+x = 300
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x3]
+pos = 80
+x = 180
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x4]
+pos = 90
+x = 400
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x5]
+pos = 100
+x = 320
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x6]
+pos = 110
+x = 440
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x7]
+pos = 120
+x = 500
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x8]
+pos = 130
+x = 100
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x9]
+pos = 140
+x = 300
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x10]
+pos = 150
+x = 150
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x11]
+pos = 160
+x = 210
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x12]
+pos = 170
+x = 290
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x13]
+pos = 180
+x = 410
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x14]
+pos = 190
+x = 260
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x15]
+pos = 200
+x = 100
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[2x1]
+pos = 210
+x = -40
+y = 100
+model = 488
+num = 4
+waitPrev = true
+delay = 0.0
+action = run226
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[2x1µï±¤]
+pos = 210
+x = -40
+y = 100
+model = 493
+num = 1
+waitPrev = false
+delay = 2.0
+action = run226
+- end -
+
+[2x2]
+pos = 220
+x = 560
+y = 100
+model = 488
+num = 4
+waitPrev = true
+delay = 0.0
+action = run227
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[2x1]
+pos = 210
+x = -40
+y = 100
+model = 488
+num = 4
+waitPrev = true
+delay = 0.0
+action = run226
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[2x2]
+pos = 210
+x = 560
+y = 100
+model = 488
+num = 4
+waitPrev = false
+delay = 0.0
+action = run227
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[3x1]
+pos = 210
+x = 260
+y = -50
+model = 489
+num = 1
+waitPrev = false
+delay = 0.0
+action = run228
+- end -
+
+[3x2]
+pos = 450
+x = 350
+y = -200
+model = 489
+num = 1
+waitPrev = false
+delay = 0.0
+action = run228
+- end -
+
+[2x1]
+pos = 650
+x = -40
+y = 100
+model = 488
+num = 4
+waitPrev = false
+delay = 0.0
+action = run226
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[2x1µï±¤]
+pos = 650
+x = -40
+y = 100
+model = 493
+num = 1
+waitPrev = false
+delay = 2.0
+action = run226
+- end -
+
+[2x2]
+pos = 850
+x = 560
+y = 100
+model = 488
+num = 4
+waitPrev = false
+delay = 0.0
+action = run227
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[2x1]
+pos = 1050
+x = -40
+y = 100
+model = 488
+num = 4
+waitPrev = false
+delay = 0.0
+action = run226
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[2x2]
+pos = 1250
+x = 560
+y = 100
+model = 488
+num = 4
+waitPrev = false
+delay = 0.0
+action = run227
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[2x1]
+pos = 1450
+x = -40
+y = 100
+model = 488
+num = 4
+waitPrev = false
+delay = 0.0
+action = run226
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[2x1µï±¤]
+pos = 1450
+x = -40
+y = 100
+model = 493
+num = 1
+waitPrev = false
+delay = 2.0
+action = run226
+- end -
+
+[2x2]
+pos = 1650
+x = 560
+y = 100
+model = 488
+num = 4
+waitPrev = false
+delay = 0.0
+action = run227
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[1]
+pos = 1660
+x = 260
+y = -40
+model = 487
+num = 1
+waitPrev = true
+delay = 0.0
+action = run225
+- end -
+
+[1x1]
+pos = 1670
+x = 100
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x2]
+pos = 1680
+x = 300
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x3]
+pos = 1690
+x = 180
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x4]
+pos = 1700
+x = 400
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x5]
+pos = 1710
+x = 320
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x6]
+pos = 1720
+x = 440
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x7]
+pos = 1730
+x = 500
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x8]
+pos = 1740
+x = 100
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x9]
+pos = 1750
+x = 300
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x10]
+pos = 1760
+x = 150
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x11]
+pos = 1770
+x = 210
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x12]
+pos = 1780
+x = 290
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x13]
+pos = 1790
+x = 410
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x14]
+pos = 1800
+x = 260
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x15]
+pos = 1810
+x = 100
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[4x1]
+pos = 1820
+x = -60
+y = 150
+model = 490
+num = 1
+waitPrev = true
+delay = 0.0
+action = run229
+- end -
+
+[4x2]
+pos = 1820
+x = 580
+y = 250
+model = 490
+num = 1
+waitPrev = false
+delay = 0.0
+action = run230
+- end -
+
+[2x1]
+pos = 2020
+x = -40
+y = 100
+model = 488
+num = 4
+waitPrev = false
+delay = 0.0
+action = run226
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[2x1µï±¤]
+pos = 2020
+x = -40
+y = 100
+model = 493
+num = 1
+waitPrev = false
+delay = 2.0
+action = run226
+- end -
+
+[2x2]
+pos = 2240
+x = 560
+y = 100
+model = 488
+num = 4
+waitPrev = false
+delay = 0.0
+action = run227
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[2x1]
+pos = 2440
+x = -40
+y = 100
+model = 488
+num = 4
+waitPrev = false
+delay = 0.0
+action = run226
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[2x2]
+pos = 2640
+x = 560
+y = 100
+model = 488
+num = 4
+waitPrev = false
+delay = 0.0
+action = run227
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[1x4]
+pos = 2840
+x = 400
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x8]
+pos = 2850
+x = 100
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x12]
+pos = 2860
+x = 290
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x10]
+pos = 2870
+x = 150
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x14]
+pos = 2880
+x = 260
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[1x15]
+pos = 2890
+x = 100
+y = -40
+model = 487
+num = 1
+waitPrev = false
+delay = 0.0
+action = run225
+- end -
+
+[2x1]
+pos = 2970
+x = -40
+y = 100
+model = 488
+num = 4
+waitPrev = true
+delay = 0.0
+action = run226
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[2x1µï±¤]
+pos = 2970
+x = -40
+y = 100
+model = 493
+num = 1
+waitPrev = true
+delay = 2.0
+action = run226
+- end -
+
+[2x2]
+pos = 3170
+x = 560
+y = 100
+model = 488
+num = 4
+waitPrev = true
+delay = 0.0
+action = run227
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[5x1]
+pos = 3180
+x = -40
+y = 40
+model = 481
+num = 4
+waitPrev = true
+delay = 0.0
+action = run231
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[5x2]
+pos = 3180
+x = 560
+y = 40
+model = 481
+num = 4
+waitPrev = false
+delay = 0.0
+action = run232
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[6x1]
+pos = 3190
+x = 260
+y = -50
+model = 492
+num = 1
+waitPrev = false
+delay = 0.0
+action = run233
+- end -
+
+[6x2]
+pos = 3190
+x = 160
+y = -150
+model = 492
+num = 2
+waitPrev = false
+delay = 0.0
+action = run234
+offX = 200
+offY = 0
+waitTime = 0.0
+- end -
+
+[2x1]
+pos = 3390
+x = -40
+y = 100
+model = 488
+num = 4
+waitPrev = false
+delay = 0.0
+action = run226
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[2x2]
+pos = 3590
+x = 560
+y = 100
+model = 488
+num = 4
+waitPrev = false
+delay = 0.0
+action = run227
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[2x1]
+pos = 3790
+x = -40
+y = 100
+model = 488
+num = 4
+waitPrev = false
+delay = 0.0
+action = run226
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[2x2]
+pos = 3990
+x = 560
+y = 100
+model = 488
+num = 4
+waitPrev = false
+delay = 0.0
+action = run227
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[2x1]
+pos = 4190
+x = -40
+y = 100
+model = 488
+num = 4
+waitPrev = false
+delay = 0.0
+action = run226
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[2x1µï±¤]
+pos = 4190
+x = -40
+y = 100
+model = 488
+num = 1
+waitPrev = false
+delay = 2.0
+action = run226
+- end -
+
+[2x2]
+pos = 4390
+x = 560
+y = 100
+model = 488
+num = 4
+waitPrev = false
+delay = 0.0
+action = run227
+offX = 0
+offY = 0
+waitTime = 0.5
+- end -
+
+[BOSS]
+pos = 3658
+x = 260
+y = -170
+model = 444
+num = 1
+waitPrev = true
+delay = 5.0
+action = boss24
+- end -

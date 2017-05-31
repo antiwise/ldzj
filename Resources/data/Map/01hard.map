@@ -1,0 +1,10 @@
+[boss]
+pos = 50
+x = 300
+y = -120
+model = 177
+num = 1
+waitPrev = true
+delay = 5.0
+action = 01hard
+- end -

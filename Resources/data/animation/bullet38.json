@@ -1,0 +1,90 @@
+[
+   {
+      "frames" : [
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 80,
+                  "isVisible" : true,
+                  "name" : "e_0",
+                  "originX" : 10,
+                  "originY" : 40,
+                  "res_dir" : "sucai",
+                  "res_name" : "121",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 21,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 80,
+                  "isVisible" : true,
+                  "name" : "e_1",
+                  "originX" : 10,
+                  "originY" : 40,
+                  "res_dir" : "sucai",
+                  "res_name" : "122",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 21,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         },
+         {
+            "delay" : 1,
+            "elements" : [
+               {
+                  "argb" : -1,
+                  "curFrame" : 0,
+                  "h" : 80,
+                  "isVisible" : true,
+                  "name" : "e_2",
+                  "originX" : 10,
+                  "originY" : 40,
+                  "res_dir" : "sucai",
+                  "res_name" : "123",
+                  "res_type" : 0,
+                  "rotation" : 0,
+                  "scaleX" : 1,
+                  "scaleY" : 1,
+                  "script" : [],
+                  "transMode" : 0,
+                  "w" : 21,
+                  "x" : 0,
+                  "y" : 0
+               }
+            ],
+            "script" : []
+         }
+      ],
+      "h" : 80,
+      "name" : "g_0",
+      "originX" : 10,
+      "originY" : 39,
+      "w" : 21
+   }
+]
+

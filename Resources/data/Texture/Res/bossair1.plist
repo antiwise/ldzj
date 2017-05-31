@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>bossair1_000.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{86,180}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{86,180}}</string>
+                <key>sourceSize</key>
+                <string>{86,180}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>bossair1.png</string>
+            <key>size</key>
+            <string>{90,184}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:b1dd2871ffef9d5e5184e1e90877d308:3532d5c9f90675a5f841df0930a28f0e:10952dc192277c2ff1964e3fe3217cb8$</string>
+            <key>textureFileName</key>
+            <string>bossair1.png</string>
+        </dict>
+    </dict>
+</plist>
